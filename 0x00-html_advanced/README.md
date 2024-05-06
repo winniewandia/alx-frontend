@@ -1,0 +1,1 @@
+0. doctype, html lang and dir
