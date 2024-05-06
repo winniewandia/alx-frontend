@@ -12,3 +12,4 @@
 11. Style guide
 12. Paragraphs
 13. styleguide paragraphs
+14. span
