@@ -5,3 +5,4 @@
 4. Aside tags
 5. section tags
 6. article tags
+7. nav tags
