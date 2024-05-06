@@ -14,3 +14,4 @@
 13. styleguide paragraphs
 14. span
 15. div
+16. structuring the sections
