@@ -6,3 +6,4 @@
 5. section tags
 6. article tags
 7. nav tags
+8. h1 tags
