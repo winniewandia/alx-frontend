@@ -3,3 +3,5 @@
 2. The head - meta charset, viewport, title, description, favicons
 3. Simple header, main, footer
 4. Aside tags
+5. section tags
+6. article tags
