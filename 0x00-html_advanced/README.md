@@ -7,3 +7,4 @@
 6. article tags
 7. nav tags
 8. h1 tags
+9. Level 2 headings
