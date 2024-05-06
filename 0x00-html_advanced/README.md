@@ -9,3 +9,4 @@
 8. h1 tags
 9. Level 2 headings
 10. Level 3 headings
+11. Style guide
