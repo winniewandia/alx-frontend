@@ -11,3 +11,4 @@
 10. Level 3 headings
 11. Style guide
 12. Paragraphs
+13. styleguide paragraphs
