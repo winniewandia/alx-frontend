@@ -31,3 +31,4 @@
 30. Inline and block quotes
 31. Address and small tags
 32. Pre and mark tags
+33. Creating a table
