@@ -33,4 +33,4 @@
 32. Pre and mark tags
 33. Creating a table
 34. Details tag
-35. Image tag
+35. Img tag
