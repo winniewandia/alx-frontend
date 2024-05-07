@@ -35,3 +35,4 @@
 34. Details tag
 35. Img tag
 36. Add images to your sections
+37. svg tag
