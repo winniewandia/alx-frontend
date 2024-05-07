@@ -32,3 +32,5 @@
 31. Address and small tags
 32. Pre and mark tags
 33. Creating a table
+34. Details tag
+35. Image tag
