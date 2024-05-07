@@ -34,3 +34,4 @@
 33. Creating a table
 34. Details tag
 35. Img tag
+36. Add images to your sections
