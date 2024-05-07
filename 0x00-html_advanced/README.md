@@ -16,3 +16,4 @@
 15. div
 16. structuring the sections
 17. comments
+18. linking logo
