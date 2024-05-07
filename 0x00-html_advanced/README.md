@@ -38,3 +38,4 @@
 37. svg tag
 38. video tag
 39. audio tag
+40. iframe tag
