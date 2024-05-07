@@ -28,3 +28,4 @@
 27. Horizontal rule and text with symbols
 28. Horizontal rule example
 29. blockquote and citing
+30. Inline and block quotes
