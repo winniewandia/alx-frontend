@@ -25,3 +25,4 @@
 24. Listing the links
 25. Secondary navigation menu
 26. Examples of lists for the styleguide
+27. Horizontal rule and text with symbols
