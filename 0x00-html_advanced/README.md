@@ -29,3 +29,4 @@
 28. Horizontal rule example
 29. blockquote and citing
 30. Inline and block quotes
+31. Address and small tags
