@@ -37,3 +37,4 @@
 36. Add images to your sections
 37. svg tag
 38. video tag
+39. audio tag
