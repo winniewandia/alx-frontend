@@ -17,3 +17,4 @@
 16. structuring the sections
 17. comments
 18. linking logo
+19. Creating new pages
