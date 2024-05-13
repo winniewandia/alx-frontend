@@ -5,3 +5,4 @@
 4. Variables for storing certain font types
 5. Variables for the font size
 6.  Variables for the font-weight
+7. Integrating Google Fonts into the CSS file
