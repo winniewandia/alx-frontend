@@ -14,3 +14,4 @@
 13. Resetting the CSS stylesheet for browser consistency
 14. Universal box-sizing rule
 15. evenly distribute the margins on both the left and and right side
+16. Adding padding to sections
