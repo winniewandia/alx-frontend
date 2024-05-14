@@ -23,3 +23,4 @@
 22. Style the social-link class that also selects the svg children
 23. Add background and hover state to services
 24. Add border to the button
+25. Add border radius to images
