@@ -24,3 +24,4 @@
 23. Add background and hover state to services
 24. Add border to the button
 25. Add border radius to images
+26. Set the size of the background using 2-value syntax
