@@ -12,3 +12,4 @@
 11. Text transform
 12. Pseudo Classes
 13. Resetting the CSS stylesheet for browser consistency
+14. Universal box-sizing rule
