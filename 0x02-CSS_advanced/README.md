@@ -21,3 +21,4 @@
 20. Select all classes that start with col-
 21. Add a dark theme to sections
 22. Style the social-link class that also selects the svg children
+23. Add background and hover state to services
