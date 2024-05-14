@@ -15,3 +15,4 @@
 14. Universal box-sizing rule
 15. evenly distribute the margins on both the left and and right side
 16. Adding padding to sections
+17. Customizing the navbar
