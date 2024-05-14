@@ -11,3 +11,4 @@
 10. Centering the section titles
 11. Text transform
 12. Pseudo Classes
+13. Resetting the CSS stylesheet for browser consistency
