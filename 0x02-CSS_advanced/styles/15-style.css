@@ -1,7 +1,7 @@
 @import 'normalize.css';
 /** Universal box-sizing rule **/
 *, *:before, *:after{
-    box-sizing: 'border-box';
+    box-sizing: 'content-box';
 }
 html {
     scroll-behavior: smooth;
