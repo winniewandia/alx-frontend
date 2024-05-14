@@ -105,6 +105,32 @@ h1, h2, h3, h4, h5, h6 {
 .card-category {
     color: var(--color-primary);
 }
+.card-services .card-title {
+    margin: 0;
+}
+.card-services a {
+    display: block;
+    padding: 2rem;
+    background-color: var(--color-light-grey);
+}
+.card-services a:hover {
+    color: var(--color-white);
+    background-color: var(--color-primary);
+    text-decoration: none;
+}
+.card-testimonial {
+    text-align: center;
+}
+.card-testimonial .card-avatar {
+    border-radius: 50%;
+    width: 10rem;
+    height: 10rem;
+}
+.card-testimonial .card-quote cite {
+    display: block;
+    padding: 1rem;
+    color: var(--color-primary);
+}
 .navbar-menu {
     float: right;
 }
@@ -201,30 +227,4 @@ ul.row {
 }
 .social-link > svg {
     fill: var(--text-color);
-}
-.card-services .card-title {
-    margin: 0;
-}
-.card-services a {
-    display: block;
-    padding: 2rem;
-    background-color: var(--color-light-grey);
-}
-.card-services a:hover {
-    color: var(--color-white);
-    background-color: var(--color-primary);
-    text-decoration: none;
-}
-.card-testimonial {
-    text-align: center;
-}
-.card-testimonial .card-avatar {
-    border-radius: 50%;
-    width: 10rem;
-    height: 10rem;
-}
-.card-testimonial .card-quote cite {
-    display: block;
-    padding: 1rem;
-    color: var(--color-primary);
 }
