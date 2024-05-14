@@ -25,3 +25,4 @@
 24. Add border to the button
 25. Add border radius to images
 26. Set the size of the background using 2-value syntax
+27. Fixing the header and menu navigation bar
