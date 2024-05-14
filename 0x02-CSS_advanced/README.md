@@ -10,3 +10,4 @@
 9. Links are decorated by default, time to remove them
 10. Centering the section titles
 11. Text transform
+12. Pseudo Classes
