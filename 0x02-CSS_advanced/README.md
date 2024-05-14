@@ -28,3 +28,4 @@
 27. Fixing the header and menu navigation bar
 28. Styling and custom properties for the nav
 29. Fix the works section
+30. Add quotes decoration on testimonials
