@@ -18,3 +18,4 @@
 17. Customizing the navbar
 18. Grid styling and custom variables
 19.  creates a new row after each instance of the class row
+20. Select all classes that start with col-
