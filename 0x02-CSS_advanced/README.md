@@ -26,3 +26,4 @@
 25. Add border radius to images
 26. Set the size of the background using 2-value syntax
 27. Fixing the header and menu navigation bar
+28. Styling and custom properties for the nav
