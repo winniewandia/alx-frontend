@@ -251,7 +251,7 @@ ul.row {
 }
 .header-logo a {
     display: var(--header-logo-link-display);
-    position: var(--header-logo-link-top);
-    top: --header-logo-link-top;
+    position: var(--header-logo-link-position);
+    top: var(--header-logo-link-top);
     left: var(--header-logo-link-left);
 }
